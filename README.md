@@ -1,3 +1,5 @@
 # R Projects
 This folder is intended as a smorgasbord of projects in R.
-Markup : - [QMSS GR5015 001 2019 3: Independent Project](https://arpasan.github.io/r_projects/qmss5015_project.html)
+
+Markup : <details>
+<summary>[QMSS GR5015 001 2019 3: Independent Project](https://arpasan.github.io/r_projects/qmss5015_project.html)<summary>
